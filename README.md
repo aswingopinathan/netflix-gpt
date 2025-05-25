@@ -2,6 +2,9 @@
 
 - Create React App
 - Confugured TailwindCSS
+- Header
+- Login Form
+- Sign up form
 
 # Features
 
@@ -16,5 +19,10 @@
     - Movie suggestion
       Movie list \* N
 - NetflixGPT
+
   - Search bar
   - Movie suggestions
+
+  # Notes
+
+  - Formik library for handling the complex forms
